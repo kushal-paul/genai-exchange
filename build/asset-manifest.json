@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.10c0b4d2.css",
+    "main.js": "/static/js/main.26f467d2.js",
+    "static/media/BeYou-GIF1.gif": "/static/media/BeYou-GIF1.e0dc279223082db7f82a.gif",
+    "static/media/BeYou-GIF.gif": "/static/media/BeYou-GIF.c0dd3c08e8b2da721cd2.gif",
+    "static/media/user.png": "/static/media/user.2137f8ee31eb3171c284.png",
+    "static/media/pycwyz.gif": "/static/media/pycwyz.2269abd73c99a78ae83a.gif",
+    "static/media/pycwyz_avatar.jpg": "/static/media/pycwyz_avatar.17690942e4856cee4aff.jpg",
+    "static/media/BeYou-Banner.png": "/static/media/BeYou-Banner.97c4d08346bb1dc06447.png",
+    "index.html": "/index.html",
+    "main.10c0b4d2.css.map": "/static/css/main.10c0b4d2.css.map",
+    "main.26f467d2.js.map": "/static/js/main.26f467d2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10c0b4d2.css",
+    "static/js/main.26f467d2.js"
+  ]
+}
