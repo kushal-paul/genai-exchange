@@ -7,6 +7,6 @@ WORKDIR /usr/src/app
 COPY . /usr/src/app/
 RUN cp -a /tmp/node_modules /usr/src/app/
 # Run application
-#CMD [ "npm", "start"]
+CMD [ "npm", "start"]
 
-CMD ["serve", "-s", "build", "-l", "3000"]
+#CMD ["serve", "-s", "build", "-l", "3000"]
