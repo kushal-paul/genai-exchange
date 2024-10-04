@@ -1,6 +1,6 @@
 "# genai-exchange" 
 
-******BeYou - PickYz.ai******
+[BeYou - PickYz.ai](https://pickyz-dot-genai-exchange-2892.el.r.appspot.com/)
 
 **Choose Better, Live Better** -- "Empowering smarter choices with AI-driven insights for healthier, informed consumption."
 
